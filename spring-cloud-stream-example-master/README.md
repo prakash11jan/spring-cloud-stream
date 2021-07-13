@@ -10,6 +10,6 @@ open http://localhost:8082
 
 create new topic "testTopic"
 
-then run the application both producer and listener
+then run the application both spring-cloud-stream/spring-cloud-stream-example-master/spring-cloud-stream-consumer and spring-cloud-stream/spring-cloud-stream-example-master/spring-cloud-stream-publisher
 
 
