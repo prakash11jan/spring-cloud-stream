@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: testTopic
+      kafka:
+        binder:
+          brokers: localhost:9092

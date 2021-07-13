@@ -1,0 +1,8 @@
+
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(í‡Žé
+M
+java:S2629"7Use the built-in formatting to construct this argument.(í‡Žé
+w
+java:S1128
+"URemove this unused import 'org.springframework.integration.config.EnableIntegration'.(ˆÏŽÐúÿÿÿÿ8†¦®‰Ÿ/
